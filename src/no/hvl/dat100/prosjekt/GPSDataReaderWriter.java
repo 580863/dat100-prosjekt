@@ -1,6 +1,6 @@
 package no.hvl.dat100.prosjekt;
 
-import java.io.*;
+import java.io.*
 
 public class GPSDataReaderWriter {
 
